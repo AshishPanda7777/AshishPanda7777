@@ -5,15 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishpanda7777" alt="ashishpanda7777" /></a> </p>
 
+- 🔭 I’m currently working on [Bank application in Python](https://github.com/AshishPanda7777/Django_bank_project)
+
 - 🌱 I’m currently learning **Django and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshishPanda7777](https://github.com/AshishPanda7777)
+
+- 💬 Ask me about **Python,Javascript,Django,SQL+**
 
 - 📫 How to reach me **pandaashish910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashish panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish panda" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashish kumar panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashish kumar panda" height="30" width="40" /></a>
 <a href="https://fb.com/ashish kumar panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashish kumar panda" height="30" width="40" /></a>
 <a href="https://instagram.com/asish.panda.7771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asish.panda.7771" height="30" width="40" /></a>
 </p>
